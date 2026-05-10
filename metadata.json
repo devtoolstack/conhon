@@ -1,0 +1,6 @@
+{
+  "name": "Cổ Nhơn Predictor",
+  "description": "Ứng dụng dự đoán chính xác kết quả trò chơi Cổ Nhơn (36 con vật) dựa trên phân tích các câu thai lục bát bằng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
